@@ -3,7 +3,7 @@
     "softEther" : {
         "address" : "localhost",
         "port" : 5555,
-        "vpncmdPath" : "path to the vpncmd executable",
-        "password" : ""
+        "vpncmdPath" : "/usr/vpnserver/vpncmd",
+        "password" : "debuf"
     }
 }
